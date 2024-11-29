@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.first {
+  width: 100%;
+}
+.onefour {
+  height: 464px;
+  width: 100%;
+}
+
+.one:hover {
+  color: white;
+}
+.two {
+  color: black;
+}
+.two:hover {
+  color: white;
+}
+.head {
+  background: url(../Images/guitar3.webp);
+  background-repeat: no-repeat;
+  height: 80vh;
+  background-position: center;
+  width: 100%;
+}
+.image1 {
+}
+
+.ten:hover {
+  background-color: blue;
+  transition-duration: 1s;
+}
+.nine {
+  background-color: brown;
+  color: white;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+.last {
+  background-image: url(../Images/electric1.webp);
+  height: 60vh;
+  background-size: cover;
+  background-position: center;
+}
+.h:hover {
+  background-color: blueviolet;
+  color: white;
+  transition-duration: 1s;
+}
